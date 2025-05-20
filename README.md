@@ -2,7 +2,7 @@
 
 My name is Arkevious Hardwick. I'm a University of Florida trained Computer Engineer passionate about everything related to Data Science and AI!
 
-- 🔭 I’m currently working on a strategy optimizer for Bloons Tower Defense 6 that calculates the minimum cost needed to beat each round.
+- 🔭 I’m currently working on a time-series analysis of Tesla and Apple stocks.
 - 🌱 I’m currently learning NLP and Deep Learning.
 
 
