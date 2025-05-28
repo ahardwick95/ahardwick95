@@ -3,7 +3,7 @@
 My name is Arkevious Hardwick. I'm a University of Florida trained Computer Engineer passionate about everything related to Data Science and AI!
 
 - 🔭 I’m currently working on a time-series analysis of Tesla and Apple stocks.
-- 🌱 I’m currently learning NLP and Deep Learning.
+- 🌱 I’m currently learning more about NLP,LLM Engineering and deep learning.
 - 🔍 I’m always open to cool collaborations, especially in the intersection of **AI + creativity + games**!
 
 
