@@ -24,7 +24,7 @@ My name is Arkevious Hardwick. I'm a University of Florida trained Computer Engi
 </p>
 
 
-
+🔍 I’m always open to cool collaborations, especially in the intersection of **AI + creativity + games**!
 
 
 ## 🔗 Connect with me
