@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-My name is Arkevious Hardwick. I'm passionate about everything related to Finance, Robotics, Gaming  and AI.
+My name is Arkevious Hardwick. I'm passionate about everything related to Robotics, Gaming  and AI.
 
-- 🔭 I’m currently working on a fake news detection application.
 - 🌱 I’m currently learning more about NLP,LLM Engineering and Deep Learning.
 - 🔍 I’m always open to cool collaborations, especially in the intersection of **AI + creativity + games**!
 
